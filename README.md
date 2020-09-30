@@ -1,2 +1,3 @@
-# Metaheuristic
-A library of metaheuristic algorithms, such as GA PSO DE HLO............
+A library of metaheuristic algorithms
+1. Human Learning Optimization
+
