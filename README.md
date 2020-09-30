@@ -1,3 +1,3 @@
 A library of metaheuristic algorithms
-1. Human Learning Optimization
+1.  HLO: Human Learning Optimization
 
